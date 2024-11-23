@@ -1,0 +1,23 @@
+.sidebar{
+    border: 1px solid black;
+    height: 100vh;
+    flex: 0.2;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 230px;
+    height: 100vh;
+    /* vh = viwe heifht */
+    background-color: black;
+}
+.sidebar_logo{
+    /* object-fit: contain; */
+    height: 70px;
+    /* width: 100px; */
+
+}
+.sidebar_title{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
+}
